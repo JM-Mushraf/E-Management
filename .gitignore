@@ -1,0 +1,22 @@
+# Build & Compiled Binaries
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific & IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local Data Storage Files (Generated at runtime)
+expenses.json
+*.json.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
